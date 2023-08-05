@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-900 py-20" id="skills">
+  <div class="main bg-gray-900 py-20" id="skills">
     <h2 class="text-4xl font-bold text-center text-white mb-8">
       Skills & Tools
     </h2>
@@ -300,6 +300,9 @@ export default {
 </script>
 
 <style scoped>
+.main {
+  overflow-x: hidden;
+}
 .card {
   animation: moveCard 4s infinite alternate;
 }
