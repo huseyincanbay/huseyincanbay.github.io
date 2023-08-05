@@ -51,7 +51,7 @@
           <div class="img mt-8 flex flex-wrap justify-center gap-4">
             <a
               class="text-white bg-gradient-to-br from-purple-600 to-blue-500 hover:bg-gradient-to-bl hover:from-purple-500 hover:to-blue-400 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-8 py-2.5 text-center mr-2 mb-2"
-              href="https://huseyincanbay.github.io/src/assets/huseyin-canbay-cv.pdf"
+              href="https://huseyincanbay.github.io/assets/huseyin-canbay-cv.pdf"
               download="huseyin-canbay-cv.pdf"
               target="_blank"
             >
